@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470127920020",
+    "project_id": "facialappandroid",
+    "storage_bucket": "facialappandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470127920020:android:4a19fa98d5e8bb24b78581",
+        "android_client_info": {
+          "package_name": "com.example.facialApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470127920020-51v3af7k8n55rgg0ai33kui1b61md09i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9pJLNRpPCz7XvwFN3NU8ar_tlz96CjaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470127920020-51v3af7k8n55rgg0ai33kui1b61md09i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
